@@ -6,7 +6,7 @@
   Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
 </h3>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Resultado final do projeto](assets/imagens/Tela-Portifólio.jpeg)
 
 <h4 align="center"><a href="https://georgehcss.github.io/Projeto-Site-Portifolio/">Clique para visitar o projeto</a></h4>
 
