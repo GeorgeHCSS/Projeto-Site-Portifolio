@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Meu Portfólio
+  💻<br>Projeto Meu Portfólio
 </h1>
 
 <h3 align="center">
@@ -12,6 +12,8 @@
 
 ## ✔️ Tarefas
 O controle das tarefas desse projeto será realizado no GitHub
+
+<h4 align="center"><a href="https://github.com/GeorgeHCSS/Projeto-Site-Portifolio/projects/1">Clique para visitar o organizador de tarefas</a></h4>
 
 ---
 
